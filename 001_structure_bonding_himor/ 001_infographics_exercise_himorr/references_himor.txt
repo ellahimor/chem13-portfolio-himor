@@ -1,0 +1,17 @@
+REFERENCES
+
+National Center for Biotechnology Information. (n.d.).
+PubChem: Theobromine, CID 5429.
+https://pubchem.ncbi.nlm.nih.gov/compound/5429
+
+National Institute of Standards and Technology. (n.d.).
+NIST Chemistry WebBook: Theobromine.
+https://webbook.nist.gov/cgi/cbook.cgi?ID=C83670
+
+Franco, R., Oñatibia-Astibia, A., & Martínez-Pinilla, E. (2013).
+Health benefits of methylxanthines in cacao and chocolate.
+Nutrients, 5(10), 4159–4173.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3820066/
+
+McMurry, J. (2016).
+Organic Chemistry (9th ed.). Pearson.
